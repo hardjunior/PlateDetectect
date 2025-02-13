@@ -1,0 +1,10 @@
+{
+    "token": "SEU_TOKEN_AQUI",
+    "metodo_envio": ["email", "telegram"],
+    "chat_ids": [-1001234567890, 1234567890],
+    "email": {
+        "remetente": "SEU_EMAIL@gmail.com",
+        "senha": "SUA_SENHA",
+        "destinatarios": ["destinatario1@gmail.com", "destinatario2@gmail.com"]
+    }
+}
